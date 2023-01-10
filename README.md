@@ -1,15 +1,18 @@
 <h1 align="center">Hi 👋, I'm Renan Rocha</h1>
-<h3 align="center">Front-end/Mobile React Web Developer from Brazil</h3>
+<h3 align="center">Brazilian Front-end/Mobile React Web Developer from Brazil</h3>
+<h4 align="center">🌳Proud of my amazonian roots🌎</h3>
 
-- 🔭 I’m currently working on [Projeto Reviver](https://github.com/renanr0cha/reviver)
+
+
+- 🔭 I’m currently working as React/React Native Developer and UX Designer in [Comuniverse](https://www.comuniverse.com.br/)
 
 - 🌱 I’m currently learning **ReactJS, React Native, NodeJS, Express**
 
 - 👨‍💻 All of my projects are available at [https://github.com/renanr0cha](https://github.com/renanr0cha)
 
-- 💬 Ask me about **Web development**
+- 💬 Ask me about **Web development**, **UX/Product Design**
 
-- ⚡ Fun fact **I travel a lot**
+- ⚡ Fun fact **I like to travel a lot**
 
 <h3 align="left">Connect with me:</h3>
 <div>
