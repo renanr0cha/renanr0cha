@@ -4,13 +4,13 @@
 
 
 
-- 🔭 I’m currently working as React/React Native Developer and UX Designer in [Comuniverse](https://www.comuniverse.com.br/)
+- 🔭 I’m currently working as Front End Engineer React/React Native Developer and UX Designer at [Comuniverse](https://www.comuniverse.com.br/)
 
-- 🌱 I’m currently learning **ReactJS, React Native, NodeJS, Express**
+- 🌱 I’m currently learning **ReactJS, VueJS, React Native, NodeJS, Express**
 
 - 👨‍💻 All of my projects are available at [https://github.com/renanr0cha](https://github.com/renanr0cha)
 
-- 💬 Ask me about **Web development**, **UX/Product Design**
+- 💬 Ask me about **Web development**, **UX/UI/Product Design**
 
 - ⚡ Fun fact **I like to travel a lot**
 
