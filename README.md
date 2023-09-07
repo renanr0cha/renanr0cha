@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Renan Rocha</h1>
-<h3 align="center">Brazilian Front end / Mobile Developer</h3>
+<h3 align="center">Brazilian Software Engineer</h3>
 <h4 align="center">🌳Proud of my amazonian roots🌎</h3>
 
 
