@@ -7,11 +7,9 @@
 [![Gmail Badge](https://img.shields.io/badge/-renanrochadev@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:renanrochadev@gmail.com)](mailto:renanrochadev@gmail.com)
 
 
-- 🔭 I’m currently working as a Mobile and Front-end Developer / UX/UI Designer at [Comuniverse](https://www.comuniverse.com.br/)
-
-- 👨‍💻 All of my projects are available at [https://github.com/renanr0cha](https://github.com/renanr0cha)
-
-- 💬 Ask me about **Web development**, **UX/UI/Product Design**
+- 🔭 Mobile and Front-end Developer / UX/UI Designer @ [Comuniverse](https://www.comuniverse.com.br/)
+- 🌐 Passionate about psychological cognitive psychology and UIs
+- 💬 Ask me about **Web development**, **UX/UI/Product Design**, places to travel to, and games.
 
 <h3 align="left">Proficient with:</h3>
 
