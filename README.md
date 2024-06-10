@@ -18,16 +18,30 @@
 
 <h3 align="left">Proficient with:</h3>
 
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=js,html,css,ts,react,nextjs,nuxtjs,vue,vuetify,tailwind,astro,materialui,bootstrap,sass,styledcomponents,jest,selenium,nodejs,express,mysql,postgres,prisma,sqlite,py)
+<h5>Front-end</h5>
+
+![My Skills Front-end](https://go-skill-icons.vercel.app/api/icons?i=js,html,css,ts,react,nextjs,nuxtjs,vue,vuetify,tailwind,astro,materialui,bootstrap,sass,styledcomponents)
+<br>
+<h5>Testing</h5>
+
+![My Skills Testing](https://go-skill-icons.vercel.app/api/icons?i=jest,selenium,playwright)
+<br>
+<h5>Back-end and DBs</h5>
+
+![My Skills Back-end](https://go-skill-icons.vercel.app/api/icons?i=nodejs,express,prisma,sqlite,mysql,postgres)
+<br>
+<h5>Other languages</h5>
+
+![My Skills Other languages](https://go-skill-icons.vercel.app/api/icons?i=py,cs)
+
 
 <h3 align="left">Tools and OS's I use:</h3>
 
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=vscode,visualstudio,androidstudio,webstorm,windows,apple,linux,ubuntu,bash,codepen,discord,docker,figma,git,github,gmail,notion,npm,obsidian,postman,vercel,vite,yarn)
+![My Tools](https://go-skill-icons.vercel.app/api/icons?i=figma,vscode,visualstudio,androidstudio,webstorm,bash,docker,git,github,npm,datagrip,insomnia,postman,vercel,vite,yarn,codepen,discord,jira,miro,edge,chrome,excel,gmail,notion,obsidian,windows,apple,linux,ubuntu)
 
 
 <div>
 <a href="https://github.com/renanr0cha">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renanr0cha&layout=compact&langs_count=7&theme=dracula"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=renanr0cha&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
