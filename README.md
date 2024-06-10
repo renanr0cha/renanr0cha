@@ -1,7 +1,10 @@
-<h1 align="center">Hi 👋, I'm Renan</h1>
-<h3 align="center">Brazilian Software Engineer / Full Stack Designer</h3>
-<h4 align="center">🌳Proud of my amazonian roots🌎</h3>
+<h1>Hi, I'm Renan👋</h1>
+<h3>Brazilian Software Engineer / Full Stack Designer</h3>
+<h4>🌳Proud of my amazonian roots🌎</h3>
+<!---([![Personal Badge](https://img.shields.io/badge/-Website-6633cc?style=flat-square&logo=Me&logoColor=white&link=https://www.fernandakipper.com/)](https://fernandakipper.com/)-->
 
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/renanr0cha/)](https://www.linkedin.com/in/renanr0cha/)
+[![Gmail Badge](https://img.shields.io/badge/-renanrochadev@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:renanrochadev@gmail.com)](mailto:renanrochadev@gmail.com)
 
 
 - 🔭 I’m currently working as a Mobile and Front-end Developer / UX/UI Designer at [Comuniverse](https://www.comuniverse.com.br/)
@@ -10,18 +13,13 @@
 
 - 💬 Ask me about **Web development**, **UX/UI/Product Design**
 
-<h3 align="left">Connect with me:</h3>
-<div>
-<a href = "mailto:renanrochadev@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://linkedin.com/in/renanr0cha" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
-</div>
-
 <h3 align="left">Proficient with:</h3>
 
 <h5>Front-end</h5>
 
 ![My Skills Front-end](https://go-skill-icons.vercel.app/api/icons?i=js,html,css,ts,react,nextjs,nuxtjs,vue,vuetify,tailwind,astro,materialui,bootstrap,sass,styledcomponents)
-<br>
+<be>
+<div style="display: flex; justify-content: flex-start; aliggn-items: flex-start;">
 <h5>Testing</h5>
 
 ![My Skills Testing](https://go-skill-icons.vercel.app/api/icons?i=jest,selenium,playwright)
@@ -30,9 +28,11 @@
 
 ![My Skills Back-end](https://go-skill-icons.vercel.app/api/icons?i=nodejs,express,prisma,sqlite,mysql,postgres)
 <br>
-<h5>Other languages</h5>
+</div>
 
-![My Skills Other languages](https://go-skill-icons.vercel.app/api/icons?i=py,cs)
+<h5>Currently studying</h5>
+
+![My Skills Other languages](https://go-skill-icons.vercel.app/api/icons?i=py,cs,swift)
 
 
 <h3 align="left">Tools and OS's I use:</h3>
@@ -41,7 +41,6 @@
 
 
 <div>
-<a href="https://github.com/renanr0cha">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renanr0cha&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
