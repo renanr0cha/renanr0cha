@@ -7,7 +7,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-renanrochadev@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:renanrochadev@gmail.com)](mailto:renanrochadev@gmail.com)
 
 
-- 🔭 Mobile and Front-end Developer / UX/UI Designer @ [Comuniverse](https://www.comuniverse.com.br/)
+- 🔭 Software developer with a pinch of UX/UI Designer @ [Comuniverse](https://www.comuniverse.com.br/)
 - 🌐 Passionate about psychological cognitive psychology and UIs
 - 💬 Ask me about **Web development**, **UX/UI/Product Design**, places to travel to, and games.
 
